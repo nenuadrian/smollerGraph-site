@@ -1,0 +1,13 @@
+{
+  "name": "smollerGraph",
+  "title": "Building smollerGraph: A Graph Database from Scratch",
+  "description": "A small graph database built from scratch in C++, from the bytes on disk to the query language, heading towards a knowledge graph.",
+  "url": "https://smollergraph.nenuadrian.com/",
+  "episodes": 14,
+  "hours": 6.9,
+  "latest": {
+    "title": "FastRP node embeddings in a graph database",
+    "url": "https://smollergraph.nenuadrian.com/ep014-embeddings/",
+    "thumb": "https://smollergraph.nenuadrian.com/thumbs/ep014-embeddings.webp"
+  }
+}
