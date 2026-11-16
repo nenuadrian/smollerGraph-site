@@ -2,6 +2,7 @@
   "name": "smollerGraph",
   "title": "Building smollerGraph: A Graph Database from Scratch",
   "description": "A small graph database built from scratch in C++, from the bytes on disk to the query language, heading towards a knowledge graph.",
+  "cover": "https://smollergraph.nenuadrian.com/cover.webp",
   "url": "https://smollergraph.nenuadrian.com/",
   "episodes": 14,
   "hours": 6.9,
