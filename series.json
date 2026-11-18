@@ -4,11 +4,11 @@
   "description": "A small graph database built from scratch in C++, from the bytes on disk to the query language, heading towards a knowledge graph.",
   "cover": "https://smollergraph.nenuadrian.com/cover.webp?v=71113bfdbb",
   "url": "https://smollergraph.nenuadrian.com/",
-  "episodes": 17,
-  "hours": 7.7,
+  "episodes": 18,
+  "hours": 8,
   "latest": {
-    "title": "Architecture decision records for our graph database",
-    "url": "https://smollergraph.nenuadrian.com/ep017-decision-records/",
-    "thumb": "https://i.ytimg.com/vi/cY-P1YYcLUg/maxresdefault.jpg"
+    "title": "Graph database in a browser",
+    "url": "https://smollergraph.nenuadrian.com/ep018-in-a-browser/",
+    "thumb": "https://i.ytimg.com/vi/qf1DuXS2LRU/maxresdefault.jpg"
   }
 }
