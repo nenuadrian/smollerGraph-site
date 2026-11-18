@@ -4,11 +4,11 @@
   "description": "A small graph database built from scratch in C++, from the bytes on disk to the query language, heading towards a knowledge graph.",
   "cover": "https://smollergraph.nenuadrian.com/cover.webp?v=71113bfdbb",
   "url": "https://smollergraph.nenuadrian.com/",
-  "episodes": 14,
-  "hours": 6.9,
+  "episodes": 17,
+  "hours": 7.7,
   "latest": {
-    "title": "FastRP node embeddings in a graph database",
-    "url": "https://smollergraph.nenuadrian.com/ep014-embeddings/",
-    "thumb": "https://smollergraph.nenuadrian.com/thumbs/ep014-embeddings.webp"
+    "title": "Architecture decision records for our graph database",
+    "url": "https://smollergraph.nenuadrian.com/ep017-decision-records/",
+    "thumb": "https://i.ytimg.com/vi/cY-P1YYcLUg/maxresdefault.jpg"
   }
 }
