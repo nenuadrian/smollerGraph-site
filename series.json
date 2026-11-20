@@ -4,11 +4,11 @@
   "description": "A small graph database built from scratch in C++, from the bytes on disk to the query language, heading towards a knowledge graph.",
   "cover": "https://smollergraph.nenuadrian.com/cover.webp?v=71113bfdbb",
   "url": "https://smollergraph.nenuadrian.com/",
-  "episodes": 19,
-  "hours": 8.5,
+  "episodes": 20,
+  "hours": 8.7,
   "latest": {
-    "title": "Active Directory attack paths in a graph database",
-    "url": "https://smollergraph.nenuadrian.com/ep019-attack-paths/",
-    "thumb": "https://smollergraph.nenuadrian.com/thumbs/ep019-attack-paths.webp"
+    "title": "Packaging a C++ library for CMake FetchContent",
+    "url": "https://smollergraph.nenuadrian.com/ep020-a-library/",
+    "thumb": "https://smollergraph.nenuadrian.com/thumbs/ep020-a-library.webp"
   }
 }
